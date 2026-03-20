@@ -1,25 +1,41 @@
 # Linux Troubleshooting Lab
 
-This repository contains hand-on labs focused on Linux system administration and IT support trobuleshooting.
-The goal of this project is to practice diagnosing and resolving common server issues in a controlled lab enviroment.
+This repository contains hands-on Linux troubleshooting labs based on real-world IT support scenarios.
 
-##Skills practiced:
-- Linux command line troubleshooting
-- Service management with systemctl
-- Web server diagnostics (Nginx)
-- File permissions and ownership
-- SSH authentication and log analysis
-- Basic incident investigation
+## Topics Covered
 
-##Enviroment
-- Ubuntu Server
-- VIrtualBox
-- SSH remote access
+- System monitoring (CPU, memory, disk)
+- Nginx configuration issues
+- File permissions and 403 errors
+- SSH authentication and security
+- Log analysis and brute-force detection
+- Network troubleshooting (DNS, connectivity)
+- Disk space analysis and cleanup
+- Process and service management
 
-##Labs included:
-1. System monitoring adn resource analysis.
-2. Nginx configuration error troubleshooting
-3. Nginx 403 permission issue
-4. SSH authentication log analysis (brue-force simulation)
+## Objective
 
-Each lab documents the investigation process, commands used, root cause and lessons learned
+The goal of this project is to simulate real production issues and develop a structured troubleshooting approach.
+
+## Key Skills
+
+- Linux command line
+- System diagnostics
+- Log analysis
+- Problem-solving methodology
+- Service management (systemctl, nginx)
+
+## Structure
+
+Each lab includes:
+
+- Scenario
+- Investigation
+- Commands used
+- Diagnosis
+- Resolution
+- Lessons learned
+
+## Author
+
+Jared Gomez
